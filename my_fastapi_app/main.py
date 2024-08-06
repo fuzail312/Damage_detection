@@ -1,4 +1,4 @@
-pip install fastapi uvicorn numpy opencv-python pyngrok nest_asyncio
+pip install fastapi uvicorn numpy opencv-python pyngrok nest_asyncio ultralytics
 from fastapi import FastAPI, UploadFile, File, HTTPException
 from fastapi.responses import FileResponse
 import numpy as np
