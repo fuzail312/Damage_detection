@@ -1,4 +1,4 @@
-pip install fastapi uvicorn numpy opencv-python pyngrok nest_asyncio ultralytics
+!pip install fastapi uvicorn numpy opencv-python pyngrok nest_asyncio ultralytics
 import io
 import uvicorn
 import numpy as np
